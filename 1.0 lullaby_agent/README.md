@@ -31,7 +31,7 @@ Welcome to the **AI Lullaby Generator and Translator** — a simple yet delightf
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-lullaby-generator.git
+   git clone https://github.com/AI-Agents-Level-1/ai-lullaby-generator.git
    cd ai-lullaby-generator
 
 ## Install the required dependencies:

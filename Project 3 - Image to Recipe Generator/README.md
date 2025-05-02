@@ -6,8 +6,8 @@ This project takes an uploaded image of food or ingredients and generates a heal
 
 ## 📸 Demo Snapshot
 
-![Image to Recipe Demo](./assets/snapshot_demo1.png)
-![Image to Recipe Demo](./assets/snapshot_demo2.png)
+![Image to Recipe Demo](./assets/screenshot_demo1.png)
+![Image to Recipe Demo](./assets/screenshot_demo2.png)
 
 ---
 

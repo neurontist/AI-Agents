@@ -45,7 +45,7 @@ cd bill-extractor-ai
 
 ## Set up your environment variables:
 - Create a .env file in the root directory.
-- Add your Google API key inside it:
+- Add your Google Gemini API key inside it:
 `GEMINI_API_KEY=your-google-api-key-here`
 
 ## Run the Streamlit app:
